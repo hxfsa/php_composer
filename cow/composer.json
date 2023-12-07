@@ -1,0 +1,17 @@
+{
+    "name": "hafsa/cow",
+    "autoload": {
+        "psr-4": {
+            "CowSay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hafsa",
+            "email": "hafsa.aitouarraou@outlook.fr"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.2"
+    }
+}
